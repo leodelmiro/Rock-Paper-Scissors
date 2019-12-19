@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pedra, Papel ou Tesoura</string>
+    <string name="user_choice_announcement">Escolha uma opção:</string>
+    <string name="app_choice">Escolha do App:</string>
+    <string name="you_lose">Você perdeu! :/</string>
+    <string name="you_win">Você venceu! :3</string>
+    <string name="draw">Empate!</string>
+</resources>
